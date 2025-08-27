@@ -1,8 +1,8 @@
-Contributing---
+# Contributing
 
 Thank you for your interest in contributing to this project.
 
-How to Contribute---
+## How to Contribute
 
 Open an issue if you find a bug or have a suggestion.
 
@@ -12,7 +12,7 @@ Make your changes and commit them with a clear message.
 
 Push your branch and open a pull request.
 
-Guidelines---
+## Guidelines
 
 Keep code clean and readable.
 
